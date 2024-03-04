@@ -1,5 +1,7 @@
 Polycystic Ovary Syndrome (PCOS) Diagnosis
-Introduction
+
+#Introduction
+
 Polycystic ovary syndrome (PCOS) is a common hormonal disorder in women of reproductive age. It is characterized by infrequent, irregular, or prolonged menstrual periods, as well as elevated levels of male hormones (androgens). Women with PCOS may also have multiple cysts on their ovaries.
 
 This project aims to diagnose PCOS and infertility issues using physical and clinical parameters. The dataset includes data from ten different hospitals across Kerala, India, comprising 44 parameters.
