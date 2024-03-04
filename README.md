@@ -1,4 +1,4 @@
-<h1>Polycystic Ovary Syndrome (PCOS) Diagnosis</h1>
+ <h1>Polycystic Ovary Syndrome (PCOS) Diagnosis</h1>
 
 **Introduction**
 
@@ -45,7 +45,7 @@ ROC-AUC Score
 **Installation and Usage**\
 Clone the repository:
 ```
-git clone https://github.com/your_username/pcos-diagnosis.git
+git clone https://github.com/MdUsmanF/PCOS.git
 ```
 Install dependencies:
 ```
